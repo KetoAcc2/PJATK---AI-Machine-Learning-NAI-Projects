@@ -1,0 +1,7 @@
+La recherche de moyens techniques et économiques permettant de rendre accessibles les informations de Wikipédia par d'autres voies que le Web, est liée au projet d'une diffusion la plus large possible des connaissances.
+
+Le projet de distribution sur papier était destiné en particulier aux personnes n'ayant pas les moyens de se raccorder à Internet. Désormais, il est possible pour tout un chacun de commander une sélection d'articles Wikipédia appelée « Livres » imprimée et reliée ; Wikimédia reçoit 10 % des ventes brutes des ouvrages76. La diffusion d'un DVD d'une sélection d'articles Wikipédia en français a fait l'objet d'un projet, mais il n'a pas abouti ; il est désormais abandonné.
+
+Copie d'écran du résultat d'une recherche hors-connexion dans Wikipédia grâce à Kiwix.
+Exemple d'une recherche hors connexion de Wikipédia avec Kiwix.
+Kiwix est un des principaux logiciels libres actuellement déployés pour consulter Wikipédia à partir d'un ordinateur personnel sous Windows, Mac OS, Linux ou Android en mode hors connexion. Il permet de lire un fichier téléchargeable au format ZIM contenant par exemple Wikipédia en français, textes et illustrations. Pour cette dernière langue, un espace de 6 Go est nécessaire pour la dernière version sans image de février 2014, et de 24 Go, pour la dernière version avec image de novembre 2013. Pour télécharger Wikipédia en français, rendez-vous sur la page Wikipédia hors-connexion.
